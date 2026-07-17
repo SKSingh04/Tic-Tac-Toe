@@ -1,6 +1,6 @@
 # ❌⭕ Tic Tac Toe
 
-🔗 **Live Demo:** https://sksingh04.github.io/Tic-Tac-Toe---Suraj-Singh/
+🔗 **Live Demo:** https://sksingh04.github.io/Tic-Tac-Toe/
 
 A responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript** where two players can compete in a classic 3×3 board.
 
@@ -41,7 +41,7 @@ A responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript** where tw
 Clone the repository
 
 ```bash
-git clone https://github.com/SKSingh04/Tic-Tac-Toe---Suraj-Singh.git
+git clone https://github.com/SKSingh04/Tic-Tac-Toe.git
 ```
 
 Open `index.html` in your browser.
